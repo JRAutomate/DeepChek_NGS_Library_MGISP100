@@ -11,6 +11,11 @@ This project automates the full workflow of the **DeepChek® NGS Library Prepara
 The automation is adapted for DeepChek reagent kits **REF 203A24 / 203A96**, supporting both 24 and 96 reaction formats. It also integrates QC checkpoints, reagent volume calculators, and follows lab safety and equipment preparation guidelines aligned with MGI and ABL protocols.
 
 ---
+## ROBOT installation.
+
+- Download the folder.
+- Copy-Paste in C:\MGISP-100\Engineer\ScriptLib at MGISP100 PC
+- Open the MGISP100 software. Import PCR methods.
 
 ## 🚀 Features
 
